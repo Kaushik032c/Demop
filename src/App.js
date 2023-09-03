@@ -4,7 +4,7 @@ import MainCom from './components/MainCom';
 function App() {
   return (
     <>
-    <Navbar  appName = "Kaushik"/>
+    <Navbar  appName = "My FIrst App"/>
     <MainCom />
     </>
   );
